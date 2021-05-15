@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#FirstSec {
+    background: linear-gradient(#41BBD9 30%, #6EEB83 100%);
+    text-align: center;
+}
